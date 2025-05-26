@@ -1,0 +1,6 @@
+.services {
+  margin: 80px 147px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
