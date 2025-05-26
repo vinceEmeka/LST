@@ -1,10 +1,10 @@
-
+import imgs1 from '../assets/img/fixed-height (3).png'
 
 export default function Card() {
  return (
   <div className="card-item" style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
    <div className="card-img" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-    <img src="src\assets\img\fixed-height (3).png" alt="" />
+    <img src={imgs1} alt="" />
    </div>
    <div className="card-title" style={{
     marginTop: '10px',
