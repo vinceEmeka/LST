@@ -19,7 +19,7 @@ function Navbar() {
        </div>
        <div className="navfunc">
         <div className="login">
-          <h4>Login / Register</h4>
+          <h4 className='login-text'>Login / Register</h4>
         </div>
         <div className="navfunc-icons"></div>
       

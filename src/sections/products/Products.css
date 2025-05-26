@@ -1,0 +1,22 @@
+.card-items {
+  /* margin: 80px 147px; */
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* gap: 15px; */
+  row-gap: 15px;
+}
+
+.load {
+  padding: 15px 40px;
+  border-radius: 5px;
+  border: 1px solid #23a6f0;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #23a6f0;
+  background: transparent;
+}
