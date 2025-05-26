@@ -1,0 +1,39 @@
+.hero {
+  margin: 80px 147px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* gap: 15px; */
+}
+
+.img1 {
+  grid-row: span 2;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.img2 {
+  flex: 1;
+}
+
+.lower-right {
+  display: flex;
+  gap: 10px;
+  flex: 1;
+}
+
+.img3,
+.img4 {
+  flex: 1;
+}
+
+.lower img {
+  /* width: 332px; */
+}
+.lower {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr;
+}
