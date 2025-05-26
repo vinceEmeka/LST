@@ -1,10 +1,10 @@
 
 import './Hero.css'
 
-import img1 from '../assets/img/media bg-cover (1).png';
-import img2 from '../assets/img/media bg-cover.png';
-import img3 from '../assets/img/media bg-cover (2).png';
-import img4 from '../assets/img/media bg-cover (3).png';
+import img1 from '../../assets/img/media bg-cover (1).png';
+import img2 from '../../assets/img/media bg-cover.png';
+import img3 from '../../assets/img/media bg-cover (2).png';
+import img4 from '../../assets/img/media bg-cover (3).png';
 
 export default function Hero() {
   return (
