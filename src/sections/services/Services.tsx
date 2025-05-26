@@ -12,8 +12,11 @@ textAlign: 'center', fontWeight: '700', marginBottom: '10px',color: '#252B42'}}>
 textAlign: 'center', fontWeight: '400',}}>Problems trying to resolve the conflict between</p>
       </div>
 
-<div className="services-cards">
+<div className="services-cards" style={{display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '20px'}}>
  <ServiceCard />
+ <ServiceCard />
+ <ServiceCard />
+ 
 </div>
       
     </div>
